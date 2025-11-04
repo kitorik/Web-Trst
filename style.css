@@ -1,0 +1,28 @@
+/* Стили для всей страницы */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Стили для заголовка */
+h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+}
+
+/* Стили для кнопки */
+#myButton {
+    background-color: #3498db;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+/* Стиль при наведении на кнопку */
+#myButton:hover {
+    background-color: #2980b9;
+}
